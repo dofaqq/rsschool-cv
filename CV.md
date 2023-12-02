@@ -19,3 +19,13 @@ I am a full-stack web developer with 1 year of experience in building web applic
 
 - Developed and maintained web applications using React, Node.js, and PostgreSQL.
 - Collaborated with the design team to create user-friendly interfaces.
+
+## Education
+
+### Bachelor of Engineering in Software Engineering
+
+#### NTU "KHPI"
+
+##### September 2018 - May 2022
+
+- Relevant coursework: Data Structures, Algorithms, Software Development.
