@@ -29,3 +29,14 @@ I am a full-stack web developer with 1 year of experience in building web applic
 ##### September 2018 - May 2022
 
 - Relevant coursework: Data Structures, Algorithms, Software Development.
+
+## Skills
+
+- JavaScript
+- React
+- Node.js
+- PostgreSQL
+- Python
+- HTML
+- CSS
+- Git
